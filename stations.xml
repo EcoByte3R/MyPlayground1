@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- ==============================================
+     A
+     ============================================== -->
+<string name="station_acton_main_line">Acton Main Line</string>
+<string name="station_acton_town">Acton Town</string>
+<string name="station_addington_village">Addington Village</string>
+<string name="station_addiscombe">Addiscombe</string>
+<string name="station_albany_park">Albany Park</string>
+<string name="station_aldgate">Aldgate</string>
+<string name="station_aldgate_east">Aldgate East</string>
+<string name="station_alexandra_palace">Alexandra Palace</string>
+<string name="station_all_saints">All Saints</string>
+<string name="station_angel">Angel</string>
+<string name="station_angel_road">Angel Road</string>
+<string name="station_arena">Arena</string>
+<string name="station_arnos_grove">Arnos Grove</string>
+<string name="station_avenue_road">Avenue Road</string>
+
+<!-- ==============================================
+     B
+     ============================================== -->
+<string name="station_bakerloo">Bakerloo</string>
+<string name="station_baker_street">Baker Street</string>
+<string name="station_balham">Balham</string>
+<string name="station_bank">Bank</string>
+<string name="station_barons_court">Barons Court</string>
+<string name="station_bayswater">Bayswater</string>
+<string name="station_beckton">Beckton</string>
+<string name="station_beckton_park">Beckton Park</string>
+<string name="station_bermondsey">Bermondsey</string>
+<string name="station_bethnal_green">Bethnal Green</string>
+<string name="station_blackfriars">Blackfriars</string>
+<string name="station_blackhorse_road">Blackhorse Road</string>
+<string name="station_blackwall">Blackwall</string>
+<string name="station_bond_street">Bond Street</string>
+<string name="station_boston_manor">Boston Manor</string>
+<string name="station_bow_church">Bow Church</string>
+<string name="station_bow_road">Bow Road</string>
+<string name="station_brent_cross">Brent Cross</string>
+<string name="station_brixton">Brixton</string>
+<string name="station_brockley">Brockley</string>
+<string name="station_bromley_by_bow">Bromley-by-Bow</string>
+<string name="station_burnt_oak">Burnt Oak</string>
+<string name="station_bushey">Bushey</string>
+
+<!-- ==============================================
+     C
+     ============================================== -->
+<string name="station_caledonian_road">Caledonian Road</string>
+<string name="station_camden_road">Camden Road</string>
+<string name="station_camden_town">Camden Town</string>
+<string name="station_canning_town">Canning Town</string>
+<string name="station_cannon_street">Cannon Street</string>
+<string name="station_canons_park">Canons Park</string>
+<string name="station_canary_wharf">Canary Wharf</string>
+<string name="station_carpenders_park">Carpenders Park</string>
+<string name="station_chalfont_latimer">Chalfont & Latimer</string>
+<string name="station_charing_cross">Charing Cross</string>
+<string name="station_chesham">Chesham</string>
+<string name="station_chigwell">Chigwell</string>
+<string name="station_chiswick_park">Chiswick Park</string>
+<string name="station_chorleywood">Chorleywood</string>
+<string name="station_clapham_common">Clapham Common</string>
+<string name="station_clapham_junction">Clapham Junction</string>
+<string name="station_clapham_north">Clapham North</string>
+<string name="station_clapham_south">Clapham South</string>
+<string name="station_cockfosters">Cockfosters</string>
+<string name="station_colliers_wood">Colliers Wood</string>
+<string name="station_covent_garden">Covent Garden</string>
+<string name="station_crossharbour">Crossharbour</string>
+<string name="station_cutty_sark">Cutty Sark for Maritime Greenwich</string>
+<string name="station_cyprus">Cyprus</string>
+
+<!-- ==============================================
+     D
+     ============================================== -->
+<string name="station_dalston_junction">Dalston Junction</string>
+<string name="station_dalston_kingsland">Dalston Kingsland</string>
+<string name="station_deptford_bridge">Deptford Bridge</string>
+<string name="station_devons_road">Devons Road</string>
+<string name="station_dollis_hill">Dollis Hill</string>
+
+<!-- ==============================================
+     E
+     ============================================== -->
+<string name="station_earls_court">Earl's Court</string>
+<string name="station_e_acton">East Acton</string>
+<string name="station_eastcote">Eastcote</string>
+<string name="station_east_india">East India</string>
+<string name="station_ealing_broadway">Ealing Broadway</string>
+<string name="station_ealing_common">Ealing Common</string>
+<string name="station_edgware">Edgware</string>
+<string name="station_edgware_road_bakerloo">Edgware Road (Bakerloo)</string>
+<string name="station_edgware_road_circle">Edgware Road (Circle/District/H&C/Met)</string>
+<string name="station_elephant_castle">Elephant & Castle</string>
+<string name="station_elverson_road">Elverson Road</string>
+<string name="station_embankment">Embankment</string>
+<string name="station_euston">Euston</string>
+<string name="station_euston_square">Euston Square</string>
+
+<!-- ==============================================
+     F
+     ============================================== -->
+<string name="station_fairlop">Fairlop</string>
+<string name="station_finchley_central">Finchley Central</string>
+<string name="station_finchley_road">Finchley Road</string>
+<string name="station_finsbury_park">Finsbury Park</string>
+<string name="station_fulham_broadway">Fulham Broadway</string>
+
+<!-- ==============================================
+     G
+     ============================================== -->
+<string name="station_gallions_reach">Gallions Reach</string>
+<string name="station_gloucester_road">Gloucester Road</string>
+<string name="station_golders_green">Golders Green</string>
+<string name="station_goldhawk_road">Goldhawk Road</string>
+<string name="station_goodge_street">Goodge Street</string>
+<string name="station_grange_hill">Grange Hill</string>
+<string name="station_greenford">Greenford</string>
+<string name="station_green_park">Green Park</string>
+<string name="station_greenwich">Greenwich</string>
+<string name="station_gunnersbury">Gunnersbury</string>
+
+<!-- ==============================================
+     H
+     ============================================== -->
+<string name="station_hainault">Hainault</string>
+<string name="station_hammer_smith">Hammersmith</string>
+<string name="station_hampstead">Hampstead</string>
+<string name="station_hanger_lane">Hanger Lane</string>
+<string name="station_harrow_on_the_hill">Harrow-on-the-Hill</string>
+<string name="station_harrow_road">Harrow Road</string>
+<string name="station_harrow_wealdstone">Harrow & Wealdstone</string>
+<string name="station_hatch_end">Hatch End</string>
+<string name="station_hatton_cross">Hatton Cross</string>
+<string name="station_heathrow_t123">Heathrow Terminals 1,2,3</string>
+<string name="station_heathrow_t4">Heathrow Terminal 4</string>
+<string name="station_heathrow_t5">Heathrow Terminal 5</string>
+<string name="station_high_barnet">High Barnet</string>
+<string name="station_highbury_islington">Highbury & Islington</string>
+<string name="station_high_street_kensington">High Street Kensington</string>
+<string name="station_hillingdon">Hillingdon</string>
+<string name="station_holborn">Holborn</string>
+<string name="station_holland_park">Holland Park</string>
+<string name="station_holloway_road">Holloway Road</string>
+<string name="station_hornchurch">Hornchurch</string>
+<string name="station_hounslow_central">Hounslow Central</string>
+<string name="station_hounslow_east">Hounslow East</string>
+<string name="station_hounslow_west">Hounslow West</string>
+<string name="station_hyde_park_corner">Hyde Park Corner</string>
+
+<!-- ==============================================
+     I
+     ============================================== -->
+<string name="station_ickenham">Ickenham</string>
+<string name="station_ilford">Ilford</string>
+<string name="station_island_gardens">Island Gardens</string>
+
+<!-- ==============================================
+     K
+     ============================================== -->
+<string name="station_kensal_green">Kensal Green</string>
+<string name="station_kensington_olympia">Kensington (Olympia)</string>
+<string name="station_kennington">Kennington</string>
+<string name="station_kentish_town">Kentish Town</string>
+<string name="station_kenton">Kenton</string>
+<string name="station_kew_gardens">Kew Gardens</string>
+<string name="station_kilburn">Kilburn</string>
+<string name="station_kilburn_park">Kilburn Park</string>
+<string name="station_king_cross_st_pancras">King's Cross St. Pancras</string>
+<string name="station_kingsbury">Kingsbury</string>
+<string name="station_knightsbridge">Knightsbridge</string>
+
+<!-- ==============================================
+     L
+     ============================================== -->
+<string name="station_ladbroke_grove">Ladbroke Grove</string>
+<string name="station_lambeth_north">Lambeth North</string>
+<string name="station_lancaster_gate">Lancaster Gate</string>
+<string name="station_langdon_park">Langdon Park</string>
+<string name="station_latimer_road">Latimer Road</string>
+<string name="station_leicester_square">Leicester Square</string>
+<string name="station_leyton">Leyton</string>
+<string name="station_leytonstone">Leytonstone</string>
+<string name="station_limehouse">Limehouse</string>
+<string name="station_liverpool_street">Liverpool Street</string>
+<string name="station_london_bridge">London Bridge</string>
+<string name="station_london_city_airport">London City Airport</string>
+
+<!-- ==============================================
+     M
+     ============================================== -->
+<string name="station_maida_vale">Maida Vale</string>
+<string name="station_manor_house">Manor House</string>
+<string name="station_mansion_house">Mansion House</string>
+<string name="station_marble_arch">Marble Arch</string>
+<string name="station_maryland">Maryland</string>
+<string name="station_marylebone">Marylebone</string>
+<string name="station_mile_end">Mile End</string>
+<string name="station_mill_hill_east">Mill Hill East</string>
+<string name="station_moat_park">Moat Park</string>
+<string name="station_monument">Monument</string>
+<string name="station_morden">Morden</string>
+<string name="station_mornington_crescent">Mornington Crescent</string>
+<string name="station_mudchute">Mudchute</string>
+
+<!-- ==============================================
+     N
+     ============================================== -->
+<string name="station_neasden">Neasden</string>
+<string name="station_new_cross">New Cross</string>
+<string name="station_new_cross_gate">New Cross Gate</string>
+<string name="station_northfields">Northfields</string>
+<string name="station_northolt">Northolt</string>
+<string name="station_north_wembley">North Wembley</string>
+<string name="station_northwood">Northwood</string>
+<string name="station_northwood_hills">Northwood Hills</string>
+<string name="station_notting_hill_gate">Notting Hill Gate</string>
+
+<!-- ==============================================
+     O
+     ============================================== -->
+<string name="station_oakwood">Oakwood</string>
+<string name="station_old_street">Old Street</string>
+<string name="station_osterley">Osterley</string>
+<string name="station_oval">Oval</string>
+<string name="station_oxford_circus">Oxford Circus</string>
+
+<!-- ==============================================
+     P
+     ============================================== -->
+<string name="station_paddington">Paddington</string>
+<string name="station_park_royal">Park Royal</string>
+<string name="station_perivale">Perivale</string>
+<string name="station_piccadilly_circus">Piccadilly Circus</string>
+<string name="station_pimlico">Pimlico</string>
+<string name="station_pinner">Pinner</string>
+<string name="station_pontoon_dock">Pontoon Dock</string>
+<string name="station_poplar">Poplar</string>
+<string name="station_preston_road">Preston Road</string>
+<string name="station_prince_regent">Prince Regent</string>
+<string name="station_pudding_mill_lane">Pudding Mill Lane</string>
+<string name="station_putney_bridge">Putney Bridge</string>
+
+<!-- ==============================================
+     Q
+     ============================================== -->
+<string name="station_queensbury">Queensbury</string>
+<string name="station_queensway">Queensway</string>
+<string name="station_queens_park">Queen's Park</string>
+
+<!-- ==============================================
+     R
+     ============================================== -->
+<string name="station_ravenscourt_park">Ravenscourt Park</string>
+<string name="station_rayners_lane">Rayners Lane</string>
+<string name="station_redbridge">Redbridge</string>
+<string name="station_regents_park">Regent's Park</string>
+<string name="station_richmond">Richmond</string>
+<string name="station_rickmansworth">Rickmansworth</string>
+<string name="station_royal_albert">Royal Albert</string>
+<string name="station_royal_oak">Royal Oak</string>
+<string name="station_royal_victoria">Royal Victoria</string>
+<string name="station_ruislip">Ruislip</string>
+<string name="station_ruislip_gardens">Ruislip Gardens</string>
+<string name="station_russell_square">Russell Square</string>
+
+<!-- ==============================================
+     S
+     ============================================== -->
+<string name="station_seven_sisters">Seven Sisters</string>
+<string name="station_shadwell">Shadwell</string>
+<string name="station_shepherds_bush">Shepherd's Bush</string>
+<string name="station_shepherds_bush_market">Shepherd's Bush Market</string>
+<string name="station_sloane_square">Sloane Square</string>
+<string name="station_snaresbrook">Snaresbrook</string>
+<string name="station_south_ealing">South Ealing</string>
+<string name="station_south_kensington">South Kensington</string>
+<string name="station_south_quay">South Quay</string>
+<string name="station_south_rye">South Rye</string>
+<string name="station_south_wimbledon">South Wimbledon</string>
+<string name="station_southwark">Southwark</string>
+<string name="station_st_jamess_park">St. James's Park</string>
+<string name="station_st_pauls">St. Paul's</string>
+<string name="station_stanmore">Stanmore</string>
+<string name="station_star_lane">Star Lane</string>
+<string name="station_stepney_green">Stepney Green</string>
+<string name="station_stockwell">Stockwell</string>
+<string name="station_stonebridge_park">Stonebridge Park</string>
+<string name="station_stratford">Stratford</string>
+<string name="station_stratford_international">Stratford International</string>
+<string name="station_sudbury_hill">Sudbury Hill</string>
+<string name="station_sudbury_town">Sudbury Town</string>
+<string name="station_surrey_quays">Surrey Quays</string>
+<string name="station_swiss_cottage">Swiss Cottage</string>
+
+<!-- ==============================================
+     T
+     ============================================== -->
+<string name="station_temple">Temple</string>
+<string name="station_tooting_bec">Tooting Bec</string>
+<string name="station_tooting_broadway">Tooting Broadway</string>
+<string name="station_tottenham_court_road">Tottenham Court Road</string>
+<string name="station_tottenham_hale">Tottenham Hale</string>
+<string name="station_tower_gateway">Tower Gateway</string>
+<string name="station_tower_hill">Tower Hill</string>
+<string name="station_turnham_green">Turnham Green</string>
+
+<!-- ==============================================
+     U
+     ============================================== -->
+<string name="station_uxbridge">Uxbridge</string>
+
+<!-- ==============================================
+     V
+     ============================================== -->
+<string name="station_vauxhall">Vauxhall</string>
+<string name="station_victoria">Victoria</string>
+
+<!-- ==============================================
+     W
+     ============================================== -->
+<string name="station_walthamstow_central">Walthamstow Central</string>
+<string name="station_walthamstow_queens_road">Walthamstow Queen's Road</string>
+<string name="station_wanstead">Wanstead</string>
+<string name="station_warwick_avenue">Warwick Avenue</string>
+<string name="station_warren_street">Warren Street</string>
+<string name="station_waterloo">Waterloo</string>
+<string name="station_watford_junction">Watford Junction</string>
+<string name="station_watford_high_street">Watford High Street</string>
+<string name="station_wembley_central">Wembley Central</string>
+<string name="station_wembley_park">Wembley Park</string>
+<string name="station_west_acton">West Acton</string>
+<string name="station_westbourne_park">Westbourne Park</string>
+<string name="station_west_combe">West Combe</string>
+<string name="station_west_drayton">West Drayton</string>
+<string name="station_west_ealing">West Ealing</string>
+<string name="station_westferry">Westferry</string>
+<string name="station_west_hampstead">West Hampstead</string>
+<string name="station_west_ham">West Ham</string>
+<string name="station_west_india_quay">West India Quay</string>
+<string name="station_westminster">Westminster</string>
+<string name="station_west_ruislip">West Ruislip</string>
+<string name="station_whitechapel">Whitechapel</string>
+<string name="station_willesden_green">Willesden Green</string>
+<string name="station_willesden_junction">Willesden Junction</string>
+<string name="station_wimbledon">Wimbledon</string>
+<string name="station_wimbledon_park">Wimbledon Park</string>
+<string name="station_woodford">Woodford</string>
+<string name="station_wood_lane">Wood Lane</string>
+<string name="station_wood_street">Wood Street</string>
+<string name="station_woolwich_arsenal">Woolwich Arsenal</string>
+
+</resources>
