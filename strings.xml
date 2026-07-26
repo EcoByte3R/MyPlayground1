@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="line_bakerloo">Bakerloo line</string>
+    <string name="line_central">Central line</string>
+    <string name="line_circle">Circle line</string>
+    <string name="line_district">District line</string>
+    <string name="line_hammersmith_and_city">Hammersmith &amp; City line</string>
+    <string name="line_jubilee">Jubilee line</string>
+    <string name="line_metropolitan">Metropolitan line</string>
+    <string name="line_northern">Northern line</string>
+    <string name="line_piccadilly">Piccadilly line</string>
+    <string name="line_victoria"> line</string>
+    <string name="line_waterloo_and_city">Waterloo &amp; City line</string>
+    <string name="line_dlr">DLR</string>
+    <string name="line_elizabeth">Elizabeth line</string>
+    <string name="line_liberty">Liberty line</string>
+    <string name="line_lioness">Lioness line</string>
+    <string name="line_mildmay">Mildmay line</string>
+    <string name="line_suffragette">Suffragette line</string>
+    <string name="line_weaver">Weaver line</string>
+    <string name="line_windrush">Windrush line</string>
+    <string name="line_tram">London Trams</string>
+</resources>
