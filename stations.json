@@ -40,7 +40,7 @@
   {"key":"station_belgrave_walk","name":"Belgrave Walk","zones":["Special"],"lines":["tram"]},
   {"key":"station_belsize_park","name":"Belsize Park","zones":["2"],"lines":["northern"]},
   {"key":"station_bermondsey","name":"Bermondsey","zones":["2"],"lines":["jubilee"]},
-  {"key":"station_bethnal_green","name":"Bethnal Green","zones":["2"],"lines":["central"]},
+  {"key":"station_bethnal_green","name":"Bethnal Green","zones":["2"],"lines":["central","weaver"]},
   {"key":"station_birkbeck","name":"Birkbeck","zones":["Special"],"lines":["tram"]},
   {"key":"station_blackfriars","name":"Blackfriars","zones":["1"],"lines":["circle","district"]},
   {"key":"station_blackhorse_lane","name":"Blackhorse Lane","zones":["Special"],"lines":["tram"]},
