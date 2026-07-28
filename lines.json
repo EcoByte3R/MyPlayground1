@@ -1,0 +1,23 @@
+[
+  {"key": "bakerloo","name": "Bakerloo line","hex_colour": "#B36305","stripe_count": 1},
+  {"key": "central","name": "Central line","hex_colour": "#E32017","stripe_count": 1},
+  {"key": "circle","name": "Circle line","hex_colour": "#FFD300","stripe_count": 1},
+  {"key": "district","name": "District line","hex_colour": "#00782A","stripe_count": 1},
+  {"key": "hammersmith_and_city","name": "Hammersmith & City line","hex_colour": "#F3A9BB","stripe_count": 1},
+  {"key": "jubilee","name": "Jubilee line","hex_colour": "#A0A5A9","stripe_count": 1},
+  {"key": "metropolitan","name": "Metropolitan line","hex_colour": "#9B0056","stripe_count": 1},
+  {"key": "northern","name": "Northern line","hex_colour": "#000000","stripe_count": 1},
+  {"key": "piccadilly","name": "Piccadilly line","hex_colour": "#003688","stripe_count": 1},
+  {"key": "victoria","name": "Victoria line","hex_colour": "#0098D4","stripe_count": 1},
+  {"key": "waterloo_and_city","name": "Waterloo & City line","hex_colour": "#95CDBA","stripe_count": 1},
+  {"key": "dlr","name": "Docklands light Railway","hex_colour": "#00A89D","stripe_count": 2},
+  {"key": "elizabeth","name": "Elizabeth line","hex_colour": "#6950A1","stripe_count": 2},
+  {"key": "liberty","name": "Liberty line","hex_colour": "#","stripe_count": 2},
+  {"key": "lioness","name": "Lioness line","hex_colour": "#","stripe_count": 2},
+  {"key": "mildmay","name": "Mildmay line","hex_colour": "#","stripe_count": 2},
+  {"key": "suffragette","name": "Suffragette line","hex_colour": "#","stripe_count": 2},
+  {"key": "weaver","name": "Weaver line","hex_colour": "#","stripe_count": 2},
+  {"key": "windrush","name": "Windrush line","hex_colour": "#","stripe_count": 2},
+  {"key": "tram","name": "Tram","hex_colour": "#84B817","stripe_count": 1}
+  {"key": "cable_car","name": "Cable Car","hex_colour": "#","stripe_count": 3}
+]
