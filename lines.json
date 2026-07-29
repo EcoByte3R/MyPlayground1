@@ -18,6 +18,6 @@
   {"key": "suffragette","name": "Suffragette line","rgb_colour": [91,189,114],"stripe_count": 2},
   {"key": "weaver","name": "Weaver line","rgb_colour": [130,58,98],"stripe_count": 2},
   {"key": "windrush","name": "Windrush line","rgb_colour": [237,27,0],"stripe_count": 2},
-  {"key": "tram","name": "Tram","rgb_colour": [95,161,38],"stripe_count": 1}
+  {"key": "tram","name": "Tram","rgb_colour": [95,161,38],"stripe_count": 1},
   {"key": "cable_car","name": "Cable Car","rgb_colour": [220,36,31],"stripe_count": 3}
 ]
