@@ -221,7 +221,7 @@ val lineStationEntries = listOf(
     LineStationEntry("hammersmith_and_city", "whitechapel"),
     LineStationEntry("hammersmith_and_city", "wood_lane"),
 
-    // Jubilee line
+    // J
     LineStationEntry("jubilee", "baker_street"),
     LineStationEntry("jubilee", "bermondsey"),
     LineStationEntry("jubilee", "bond_street"),
@@ -249,41 +249,51 @@ val lineStationEntries = listOf(
     LineStationEntry("jubilee", "westminster"),
     LineStationEntry("jubilee", "willesden_green"),
 
-    // Metropolitan line
-    LineStationEntry("metropolitan", "aldgate"),
-    LineStationEntry("metropolitan", "amersham"),
-    LineStationEntry("metropolitan", "baker_street"),
-    LineStationEntry("metropolitan", "barbican"),
-    LineStationEntry("metropolitan", "chalfont_and_latimer"),
-    LineStationEntry("metropolitan", "chesham"),
-    LineStationEntry("metropolitan", "chorleywood"),
-    LineStationEntry("metropolitan", "croxley"),
-    LineStationEntry("metropolitan", "eastcote"),
-    LineStationEntry("metropolitan", "euston_square"),
-    LineStationEntry("metropolitan", "farringdon"),
-    LineStationEntry("metropolitan", "finchley_road"),
-    LineStationEntry("metropolitan", "great_portland_street"),
-    LineStationEntry("metropolitan", "harrow_on_the_hill"),
-    LineStationEntry("metropolitan", "hillingdon"),
-    LineStationEntry("metropolitan", "ickenhan"),
-    LineStationEntry("metropolitan", "kings_cross_st_pancras"),
-    LineStationEntry("metropolitan", "liverpool_street"),
-    LineStationEntry("metropolitan", "moor_park"),
-    LineStationEntry("metropolitan", "moorgate"),
-    LineStationEntry("metropolitan", "north_harrow"),
-    LineStationEntry("metropolitan", "northwick_park"),
-    LineStationEntry("metropolitan", "northwood"),
-    LineStationEntry("metropolitan", "northwood_hills"),
-    LineStationEntry("metropolitan", "pinner"),
-    LineStationEntry("metropolitan", "preston_road"),
-    LineStationEntry("metropolitan", "rayners_lane"),
-    LineStationEntry("metropolitan", "rickmansworth"),
-    LineStationEntry("metropolitan", "ruislip"),
-    LineStationEntry("metropolitan", "ruislip_manor"),
-    LineStationEntry("metropolitan", "uxbridge"),
-    LineStationEntry("metropolitan", "watford"),
-    LineStationEntry("metropolitan", "wembley_park"),
-    LineStationEntry("metropolitan", "west_harrow"),
+    // M
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
+    LineStationEntry("metropolitan", ""),
 
     // Northern line
     LineStationEntry("northern", "angel"),
@@ -339,7 +349,7 @@ val lineStationEntries = listOf(
     LineStationEntry("northern", "west_finchley"),
     LineStationEntry("northern", "woodside_park"),
 
-    // P
+    // Piccadilly line
     LineStationEntry("piccadilly", "acton_town"),
     LineStationEntry("piccadilly", "alperton"),
     LineStationEntry("piccadilly", "arnos_grove"),
@@ -394,7 +404,7 @@ val lineStationEntries = listOf(
     LineStationEntry("piccadilly", "uxbridge"),
     LineStationEntry("piccadilly", "wood_green"),
 
-    // V
+    // Victoria line
     LineStationEntry("victoria", "blackhorse_road"),
     LineStationEntry("victoria", "brixton"),
     LineStationEntry("victoria", "green_park"),
@@ -412,10 +422,9 @@ val lineStationEntries = listOf(
     LineStationEntry("victoria", "walthamstow_central"),
     LineStationEntry("victoria", "warren_street"),
 
-    // W
-    LineStationEntry("waterloo_and_city", ""),
-    LineStationEntry("waterloo_and_city", ""),
-
+    // Waterloo and City line
+    LineStationEntry("waterloo_and_city", "bank"),
+    LineStationEntry("waterloo_and_city", "waterloo"),
 
     // DLR
     LineStationEntry("dlr", ""),
