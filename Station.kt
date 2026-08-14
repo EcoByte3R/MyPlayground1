@@ -259,7 +259,7 @@ val lineStationEntries = listOf(
     LineStationEntry("metropolitan", "chorleywood"),
     LineStationEntry("metropolitan", "croxley"),
     LineStationEntry("metropolitan", "eastcote"),
-    LineStationEntry("metropolitan", euston_square""),
+    LineStationEntry("metropolitan", "euston_square"),
     LineStationEntry("metropolitan", "farringdon"),
     LineStationEntry("metropolitan", "finchley_road"),
     LineStationEntry("metropolitan", "great_portland_street"),
