@@ -1,0 +1,47 @@
+package com.example.myapplication1.ui.components
+
+import androidx.compose.foundation.layout.RowScope
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MediumFlexibleTopAppBar
+import androidx.compose.material3.Text
+import androidx.compose.material.icons.Icons
+import androidx.compose.material3.FilledTonalIconButton
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.style.TextOverflow
+import com.example.myapplication1.ui.icons.ArrowBackAutoMirrored as IconArrowBackAutoMirrored
+
+
+@Composable
+fun MyMediumFlexibleTopAppBar(
+    title: String,
+    showBackButton: Boolean,
+    onBackClick: () -> Unit,
+    modifier: Modifier = Modifier,
+    titleMaxLines: Int = 1,
+    titleOverflow: TextOverflow = TextOverflow.Ellipsis,
+    actions: @Composable RowScope.() -> Unit = {},
+) {
+    MediumFlexibleTopAppBar(
+        title = {
+            Text(
+                text = title,
+                maxLines = titleMaxLines,
+                overflow = titleOverflow
+            )
+        },
+        navigationIcon = {
+            if (showBackButton) {
+                FilledTonalIconButton(onClick = onBackClick) {
+                    Icon(
+                        imageVector = IconArrowBackAutoMirrored,
+                        contentDescription = "Back"
+                    )
+                }
+            }
+        },
+        actions = actions,
+        modifier = modifier
+    )
+}
